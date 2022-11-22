@@ -1,6 +1,10 @@
-Hi, my name is Leonardo, i'm developer back-end!!!
-<div align="center">
+<h3> Hi, my name is Leonardo... </h3>
+<div style="display: flex; align-items: center;">
+  <h4>Back-End developer </h4> <img style="display: flex; align-items: center;" height="100" width="120" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
+  </div>
   <a href="https://github.com/leonardo9889">
+
+
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leonardo9889&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardo9889&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
